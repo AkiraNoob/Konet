@@ -1,0 +1,16 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using Konet.Application.Common.Events;
+global using Konet.Application.Common.Exceptions;
+global using Konet.Application.Common.FileStorage;
+global using Konet.Application.Common.Interfaces;
+global using Konet.Application.Common.Models;
+global using Konet.Application.Common.Persistence;
+global using Konet.Application.Common.Specification;
+global using Konet.Application.Common.Validation;
+global using Konet.Domain.Common;
+global using Konet.Domain.Common.Contracts;
+global using Konet.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

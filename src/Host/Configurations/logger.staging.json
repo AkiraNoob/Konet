@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "Konet",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mysql",
+    "ConnectionString": "server=localhost;uid=root;pwd=22CSGOaa;database=doan2;Allow User Variables=True"
+  }
+}
