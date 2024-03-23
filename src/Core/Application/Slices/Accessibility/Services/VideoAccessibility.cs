@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Konet.Application.Slices.Accessibility.Services;
+/** **/
 public class ContentAccessibility : IContentAccessibility
 {
     public VideoPermissionEnum GetVideoPermission(VideoEntity video, DefaultIdType userId, CancellationToken cancellationToken)
